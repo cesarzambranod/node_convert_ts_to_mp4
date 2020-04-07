@@ -1,0 +1,20 @@
+{
+  "name": "videojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servervideo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cesar zambrano",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fluent-ffmpeg": "^2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cesarzambranod/node_convert_ts_to_mp4"
+  }
+}
